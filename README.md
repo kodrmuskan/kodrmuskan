@@ -1,8 +1,8 @@
-Hi there, I'm Muskan Rajpoot 👋
+# Hi there, I'm Muskan Rajpoot 👋
 👩‍💻 Aspiring Software Developer
 I'm a student passionate about learning programming, web development, and technology. I'm building my skills in frontend development and exploring different programming languages to create useful digital solutions.
 
-👩‍💻 About Me
+### 👩‍💻 About Me
 💻 Aspiring Software Developer
 
 🌱 Currently learning HTML, CSS, JavaScript, C, Java, and DCA
@@ -13,8 +13,9 @@ I'm a student passionate about learning programming, web development, and techno
 
 🎯 Focused on learning, building projects, and growing as a developer
 
-🛠️ Tech Stack
-Frontend
+## 🛠️ Tech Stack
+
+### Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
 </p>
